@@ -1,6 +1,6 @@
 # gdb-bug
 
-`thread.c:1123: internal-error: void finish_thread_state(ptid_t): Assertion `tp' failed.`
+`thread.c:1123: internal-error: void finish_thread_state(ptid_t): Assertion ``tp' failed.`
 
 ## reproduce:
 
